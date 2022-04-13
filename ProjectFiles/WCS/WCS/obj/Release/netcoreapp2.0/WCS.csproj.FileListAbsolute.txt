@@ -1,0 +1,12 @@
+C:\Users\AleYBen\Source\Repos\WCS\WCS\bin\Release\netcoreapp2.0\WCS.deps.json
+C:\Users\AleYBen\Source\Repos\WCS\WCS\bin\Release\netcoreapp2.0\WCS.runtimeconfig.json
+C:\Users\AleYBen\Source\Repos\WCS\WCS\bin\Release\netcoreapp2.0\WCS.runtimeconfig.dev.json
+C:\Users\AleYBen\Source\Repos\WCS\WCS\bin\Release\netcoreapp2.0\WCS.dll
+C:\Users\AleYBen\Source\Repos\WCS\WCS\bin\Release\netcoreapp2.0\WCS.pdb
+C:\Users\AleYBen\Source\Repos\WCS\WCS\obj\Release\netcoreapp2.0\WCS.csprojAssemblyReference.cache
+C:\Users\AleYBen\Source\Repos\WCS\WCS\obj\Release\netcoreapp2.0\WCS.csproj.CoreCompileInputs.cache
+C:\Users\AleYBen\Source\Repos\WCS\WCS\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\AleYBen\Source\Repos\WCS\WCS\obj\Release\netcoreapp2.0\WCS.AssemblyInfoInputs.cache
+C:\Users\AleYBen\Source\Repos\WCS\WCS\obj\Release\netcoreapp2.0\WCS.AssemblyInfo.cs
+C:\Users\AleYBen\Source\Repos\WCS\WCS\obj\Release\netcoreapp2.0\WCS.dll
+C:\Users\AleYBen\Source\Repos\WCS\WCS\obj\Release\netcoreapp2.0\WCS.pdb

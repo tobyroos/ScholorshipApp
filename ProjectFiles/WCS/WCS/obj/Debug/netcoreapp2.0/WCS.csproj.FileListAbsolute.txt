@@ -1,0 +1,63 @@
+C:\Users\AleYBen\Source\Repos\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.deps.json
+C:\Users\AleYBen\Source\Repos\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.runtimeconfig.json
+C:\Users\AleYBen\Source\Repos\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.runtimeconfig.dev.json
+C:\Users\AleYBen\Source\Repos\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.dll
+C:\Users\AleYBen\Source\Repos\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.pdb
+C:\Users\AleYBen\Source\Repos\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.csprojAssemblyReference.cache
+C:\Users\AleYBen\Source\Repos\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.csproj.CoreCompileInputs.cache
+C:\Users\AleYBen\Source\Repos\WCS\WCS\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\AleYBen\Source\Repos\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.AssemblyInfoInputs.cache
+C:\Users\AleYBen\Source\Repos\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.AssemblyInfo.cs
+C:\Users\AleYBen\Source\Repos\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.dll
+C:\Users\AleYBen\Source\Repos\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.pdb
+C:\Users\codyb\Documents\Computer Science\SE2\scholarship_repo\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\codyb\Documents\Computer Science\SE2\scholarship_repo\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\codyb\Documents\Computer Science\SE2\scholarship_repo\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\codyb\Documents\Computer Science\SE2\scholarship_repo\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.deps.json
+C:\Users\codyb\Documents\Computer Science\SE2\scholarship_repo\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.runtimeconfig.json
+C:\Users\codyb\Documents\Computer Science\SE2\scholarship_repo\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.runtimeconfig.dev.json
+C:\Users\codyb\Documents\Computer Science\SE2\scholarship_repo\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.dll
+C:\Users\codyb\Documents\Computer Science\SE2\scholarship_repo\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.pdb
+C:\Users\codyb\Documents\Computer Science\SE2\scholarship_repo\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.csproj.AssemblyReference.cache
+C:\Users\codyb\Documents\Computer Science\SE2\scholarship_repo\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codyb\Documents\Computer Science\SE2\scholarship_repo\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.AssemblyInfoInputs.cache
+C:\Users\codyb\Documents\Computer Science\SE2\scholarship_repo\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.AssemblyInfo.cs
+C:\Users\codyb\Documents\Computer Science\SE2\scholarship_repo\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.csproj.CoreCompileInputs.cache
+C:\Users\codyb\Documents\Computer Science\SE2\scholarship_repo\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\codyb\Documents\Computer Science\SE2\scholarship_repo\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.dll
+C:\Users\codyb\Documents\Computer Science\SE2\scholarship_repo\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.pdb
+C:\Users\codyb\Documents\Computer Science\SE2\scholarship_repo\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.genruntimeconfig.cache
+C:\Users\tobyr\scholarship_repo\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\tobyr\scholarship_repo\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\tobyr\scholarship_repo\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\tobyr\scholarship_repo\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.deps.json
+C:\Users\tobyr\scholarship_repo\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.runtimeconfig.json
+C:\Users\tobyr\scholarship_repo\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.runtimeconfig.dev.json
+C:\Users\tobyr\scholarship_repo\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.dll
+C:\Users\tobyr\scholarship_repo\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.pdb
+C:\Users\tobyr\scholarship_repo\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.csproj.AssemblyReference.cache
+C:\Users\tobyr\scholarship_repo\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobyr\scholarship_repo\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.AssemblyInfoInputs.cache
+C:\Users\tobyr\scholarship_repo\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.AssemblyInfo.cs
+C:\Users\tobyr\scholarship_repo\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.csproj.CoreCompileInputs.cache
+C:\Users\tobyr\scholarship_repo\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\tobyr\scholarship_repo\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.dll
+C:\Users\tobyr\scholarship_repo\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.pdb
+C:\Users\tobyr\scholarship_repo\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.genruntimeconfig.cache
+C:\Users\tobyr\ScholarshipV2.1\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\tobyr\ScholarshipV2.1\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\tobyr\ScholarshipV2.1\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\tobyr\ScholarshipV2.1\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.deps.json
+C:\Users\tobyr\ScholarshipV2.1\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.runtimeconfig.json
+C:\Users\tobyr\ScholarshipV2.1\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.runtimeconfig.dev.json
+C:\Users\tobyr\ScholarshipV2.1\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.dll
+C:\Users\tobyr\ScholarshipV2.1\ProjectFiles\WCS\WCS\bin\Debug\netcoreapp2.0\WCS.pdb
+C:\Users\tobyr\ScholarshipV2.1\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.csproj.AssemblyReference.cache
+C:\Users\tobyr\ScholarshipV2.1\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobyr\ScholarshipV2.1\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.AssemblyInfoInputs.cache
+C:\Users\tobyr\ScholarshipV2.1\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.AssemblyInfo.cs
+C:\Users\tobyr\ScholarshipV2.1\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.csproj.CoreCompileInputs.cache
+C:\Users\tobyr\ScholarshipV2.1\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\tobyr\ScholarshipV2.1\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.dll
+C:\Users\tobyr\ScholarshipV2.1\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.pdb
+C:\Users\tobyr\ScholarshipV2.1\ProjectFiles\WCS\WCS\obj\Debug\netcoreapp2.0\WCS.genruntimeconfig.cache
